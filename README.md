@@ -25,8 +25,8 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 
 <p>  
 <!-- GitHub Stats -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesattensure&show_icons=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesattensure&show_icons=true&hide_border=true&count_private=true&theme=radical&hide=prs,issues,contribs"/>
 
 <!-- Most Used Languages -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesattensure&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesattensure&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical&count_private=true"/>  
 </p>  
