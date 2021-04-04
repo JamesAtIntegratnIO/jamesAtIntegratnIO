@@ -1,4 +1,4 @@
-![Banner](https://github.com/jamesattensure/jamesattensure/blob/main//assets/JamesAtTensure1920x583.png)
+![Banner](https://github.com/jamesattensure/jamesattensure/blob/main/assets/JamesAtTensure1920x583.png)
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img align="right" width="80" height="25" src="https://visitor-badge.glitch.me/badge?page_id=jamesattensure.jamesattensure"></h2>
 
