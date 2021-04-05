@@ -24,9 +24,9 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 
 **🐱 My Github Data** 
 
-> 🏆 172 Contributions in the Year 2021
+> 🏆 174 Contributions in the Year 2021
  > 
-> 📦 803 Bytes Used in Github's Storage 
+> 📦 816 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
