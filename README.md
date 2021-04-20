@@ -18,13 +18,13 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28930%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 289 Contributions in the Year 2021
  > 
 > 📦 2.2 kB Used in Github's Storage 
  > 
@@ -63,26 +63,26 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Go                       4 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.37% 
-Other                    2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-YAML                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-PHP                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+Other                    3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   39.3% 
+Go                       2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   30.93% 
+YAML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+PHP                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 
 🔥 Editors: 
-VS Code                  7 hrs 52 mins       ██████████████████░░░░░░░   74.71% 
-Unknown Editor           2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29%
+VS Code                  5 hrs 17 mins       ███████████████░░░░░░░░░░   61.96% 
+Unknown Editor           3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   38.04%
 
 🐱‍💻 Projects: 
-Content-Creation         3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   34.03% 
-Unknown Project          2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91% 
-magpie                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
-configfetcher            48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
-MCSpannerLogoIntegratorCF47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.49%
+Unknown Project          3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   38.04% 
+Content-Creation         2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.06% 
+magpie                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+tfx                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
+configfetcher            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07%
 
 💻 Operating System: 
-Mac                      7 hrs 52 mins       ██████████████████░░░░░░░   74.71% 
-Unknown OS               2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29%
+Mac                      5 hrs 17 mins       ███████████████░░░░░░░░░░   61.96% 
+Unknown OS               3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   38.04%
 
 ```
 
