@@ -18,13 +18,13 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32802%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32804%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 326 Contributions in the Year 2021
+> 🏆 330 Contributions in the Year 2021
  > 
 > 📦 2.3 kB Used in Github's Storage 
  > 
@@ -37,8 +37,8 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    7 commits      ████████░░░░░░░░░░░░░░░░░   35.0% 
-🌆 Daytime    13 commits     ████████████████░░░░░░░░░   65.0% 
+🌞 Morning    9 commits      ██████████░░░░░░░░░░░░░░░   40.91% 
+🌆 Daytime    13 commits     ██████████████░░░░░░░░░░░   59.09% 
 🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -46,11 +46,11 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    11 commits     █████████████░░░░░░░░░░░░   55.0% 
-Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Friday       6 commits      ███████░░░░░░░░░░░░░░░░░░   30.0% 
+Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+Tuesday      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Wednesday    11 commits     ████████████░░░░░░░░░░░░░   50.0% 
+Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Friday       6 commits      ██████░░░░░░░░░░░░░░░░░░░   27.27% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -63,26 +63,26 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Other                    7 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.95% 
-YAML                     6 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   26.87% 
-JavaScript               3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
-Nix                      2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-Ruby                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   8.06%
+Other                    7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.03% 
+YAML                     6 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.74% 
+Nix                      2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+Ruby                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   8.9% 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.79%
 
 🔥 Editors: 
-VS Code                  20 hrs 45 mins      ████████████████████░░░░░   83.28% 
-Unknown Editor           4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72%
+VS Code                  18 hrs 23 mins      ████████████████████░░░░░   81.53% 
+Unknown Editor           4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.47%
 
 🐱‍💻 Projects: 
-raven                    8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.11% 
-magpie                   7 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   30.23% 
-Unknown Project          4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
-Content-Creation         2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-birds                    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.57%
+raven                    8 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.58% 
+Content-Creation         5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   22.33% 
+Unknown Project          4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.7% 
+magpie                   3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+birds                    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.25%
 
 💻 Operating System: 
-Mac                      20 hrs 45 mins      ████████████████████░░░░░   83.28% 
-Unknown OS               4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72%
+Mac                      18 hrs 23 mins      ████████████████████░░░░░   81.53% 
+Unknown OS               4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.47%
 
 ```
 
