@@ -18,13 +18,13 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32862%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33190%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 340 Contributions in the Year 2021
+> 🏆 341 Contributions in the Year 2021
  > 
 > 📦 2.4 kB Used in Github's Storage 
  > 
@@ -37,22 +37,22 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    11 commits     ██████████░░░░░░░░░░░░░░░   40.74% 
-🌆 Daytime    16 commits     ██████████████░░░░░░░░░░░   59.26% 
-🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌞 Morning    77 commits     ████████░░░░░░░░░░░░░░░░░   32.77% 
+🌆 Daytime    131 commits    ██████████████░░░░░░░░░░░   55.74% 
+🌃 Evening    27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-Tuesday      5 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-Wednesday    13 commits     ████████████░░░░░░░░░░░░░   48.15% 
-Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
-Friday       6 commits      █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Monday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+Tuesday      47 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Wednesday    63 commits     ██████░░░░░░░░░░░░░░░░░░░   26.81% 
+Thursday     41 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+Friday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
+Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
+Sunday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98%
 
 ```
 
@@ -63,26 +63,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Other                    90 hrs 1 min        ███████████████████████░░   94.57% 
-YAML                     3 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
-Nix                      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73% 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           89 hrs 49 mins      ███████████████████████░░   94.38% 
-VS Code                  5 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.62%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          89 hrs 49 mins      ███████████████████████░░   94.38% 
-Content-Creation         2 hrs 20 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
-birds                    1 hr 31 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
-rhesus                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57% 
-hummingbird              31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               89 hrs 49 mins      ███████████████████████░░   94.38% 
-Mac                      5 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.62%
+No Activity Tracked This Week
 
 ```
 
