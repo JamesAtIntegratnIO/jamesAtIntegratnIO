@@ -24,7 +24,7 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 
 **🐱 My Github Data** 
 
-> 🏆 401 Contributions in the Year 2021
+> 🏆 403 Contributions in the Year 2021
  > 
 > 📦 2.5 kB Used in Github's Storage 
  > 
@@ -103,7 +103,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JamesAtTensure/JamesAtTensure/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/06/2021
+ Last Updated on 14/06/2021
 <!--END_SECTION:waka--> 
 
 <!-- GitHub stats -->  
