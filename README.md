@@ -18,7 +18,7 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80007%20lines%20of%20code-blue)
 
@@ -63,24 +63,24 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Other                    6 hrs 15 mins       ██████████████████░░░░░░░   72.02% 
-YAML                     1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.7% 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.72% 
-Go                       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+Other                    7 hrs 40 mins       ███████████████████░░░░░░   79.38% 
+YAML                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
+Go                       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
+SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🔥 Editors: 
-Unknown Editor           6 hrs 15 mins       ██████████████████░░░░░░░   72.02% 
-VS Code                  2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.98%
+Unknown Editor           7 hrs 40 mins       ███████████████████░░░░░░   79.38% 
+VS Code                  1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62%
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 15 mins       ██████████████████░░░░░░░   72.02% 
-go-mysql-crud            1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.24% 
-working-branch           45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.74%
+Unknown Project          7 hrs 40 mins       ███████████████████░░░░░░   79.38% 
+go-mysql-crud            1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
+working-branch           19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
 
 💻 Operating System: 
-Unknown OS               6 hrs 15 mins       ██████████████████░░░░░░░   72.02% 
-Mac                      2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.98%
+Unknown OS               7 hrs 40 mins       ███████████████████░░░░░░   79.38% 
+Mac                      1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62%
 
 ```
 
@@ -101,7 +101,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JamesAtTensure/JamesAtTensure/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/07/2021
+ Last Updated on 29/07/2021
 <!--END_SECTION:waka--> 
 
 <!-- GitHub stats -->  
