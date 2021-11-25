@@ -63,21 +63,16 @@ Sunday       25 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Other                    25 hrs 5 mins       █████████████████████████   99.54% 
-Nix                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           25 hrs 5 mins       █████████████████████████   99.54% 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          25 hrs 5 mins       █████████████████████████   99.54% 
-Content-Creation_test    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               25 hrs 5 mins       █████████████████████████   99.54% 
-Mac                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+No Activity Tracked This Week
 
 ```
 
@@ -98,7 +93,7 @@ Shell                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JamesAtTensure/JamesAtTensure/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/11/2021
+ Last Updated on 25/11/2021
 <!--END_SECTION:waka--> 
 
 <!-- GitHub stats -->  
