@@ -10,7 +10,7 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 
 
 - 🔭 I’m currently working on something fun
-- 🌱 I’m currently studying for a Google Cloud Architect cert
+- 🌱 I’m currently studying for a Google Cloud Architect cert ([GOT IT](https://googlecloudcertified.credential.net/profile/e79e517f5ba1b6c1ce7f0c983d7436eba7a9f5e2))
 
 <a href="https://linkedin.com/in/jjdreier" target="blank"><img align="center" src="https://github.com/jamesattensure/jamesattensure/blob/main/assets/linkedin.svg" alt="jjdreier" height="30" width="30" /></a>  
 
