@@ -18,13 +18,13 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 25 Contributions in the Year 2022
+> 🏆 29 Contributions in the Year 2022
  > 
 > 📦 237.1 kB Used in GitHub's Storage 
  > 
@@ -63,26 +63,25 @@ Sunday       26 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Other                    15 hrs 7 mins       ███████████████░░░░░░░░░░   63.02% 
-Python                   4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
-Go                       1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
-Nix                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.8% 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.01%
+Other                    10 hrs 21 mins      ████████████░░░░░░░░░░░░░   51.38% 
+Python                   4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   22.46% 
+Nix                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
+Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.51% 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
 
 🔥 Editors: 
-Unknown Editor           15 hrs 5 mins       ███████████████░░░░░░░░░░   62.88% 
-VS Code                  8 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.12%
+Unknown Editor           10 hrs 10 mins      ████████████░░░░░░░░░░░░░   50.43% 
+VS Code                  9 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.57%
 
 🐱‍💻 Projects: 
-Unknown Project          16 hrs 40 mins      █████████████████░░░░░░░░   69.49% 
-locusts_tests            3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Content-Creation_test    3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-magpie                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-go-slack-webhook         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Unknown Project          10 hrs 10 mins      ████████████░░░░░░░░░░░░░   50.43% 
+Content-Creation_test    6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   30.47% 
+locusts_tests            3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.85% 
+pantropy                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 💻 Operating System: 
-Unknown OS               15 hrs 5 mins       ███████████████░░░░░░░░░░   62.88% 
-Mac                      8 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.12%
+Unknown OS               10 hrs 10 mins      ████████████░░░░░░░░░░░░░   50.43% 
+Mac                      9 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.57%
 
 ```
 
@@ -103,7 +102,7 @@ Shell                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JamesAtTensure/JamesAtTensure/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/02/2022 18:44:48 UTC
+ Last Updated on 14/02/2022 18:46:30 UTC
 <!--END_SECTION:waka--> 
 
 <!-- GitHub stats -->  
