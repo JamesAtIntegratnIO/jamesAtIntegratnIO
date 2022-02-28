@@ -18,41 +18,41 @@ I'm James. I work at **[Tensure](https://tensure.io)** where I am currently a Sr
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 54 Contributions in the Year 2022
+> 🏆 75 Contributions in the Year 2022
  > 
-> 📦 237.1 kB Used in GitHub's Storage 
+> 📦 241.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    137 commits    ████████░░░░░░░░░░░░░░░░░   32.01% 
-🌆 Daytime    225 commits    █████████████░░░░░░░░░░░░   52.57% 
-🌃 Evening    65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+🌞 Morning    137 commits    ███████░░░░░░░░░░░░░░░░░░   31.14% 
+🌆 Daytime    237 commits    █████████████░░░░░░░░░░░░   53.86% 
+🌃 Evening    65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
-Tuesday      98 commits     █████░░░░░░░░░░░░░░░░░░░░   22.9% 
-Wednesday    103 commits    ██████░░░░░░░░░░░░░░░░░░░   24.07% 
-Thursday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-Friday       69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.12% 
-Saturday     29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
-Sunday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.07%
+Monday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
+Tuesday      96 commits     █████░░░░░░░░░░░░░░░░░░░░   21.82% 
+Wednesday    103 commits    █████░░░░░░░░░░░░░░░░░░░░   23.41% 
+Thursday     55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Friday       69 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+Saturday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.86% 
+Sunday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.91%
 
 ```
 
@@ -63,36 +63,36 @@ Sunday       26 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Other                    12 hrs 37 mins      ████████████████████░░░░░   83.35% 
-Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.25% 
-YAML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
-TOML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
+Other                    21 hrs 50 mins      ██████████████████░░░░░░░   74.78% 
+YAML                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.24% 
+Go                       2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
+JSON                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
+Python                   46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
 
 🔥 Editors: 
-Unknown Editor           12 hrs 25 mins      ████████████████████░░░░░   81.95% 
-VS Code                  2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.05%
+Unknown Editor           21 hrs 50 mins      ██████████████████░░░░░░░   74.78% 
+VS Code                  7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22%
 
 🐱‍💻 Projects: 
-Unknown Project          12 hrs 46 mins      █████████████████████░░░░   84.33% 
-rhesus                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
-Content-Creation_test    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
-.zprezto                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+Unknown Project          24 hrs 21 mins      ████████████████████░░░░░   83.41% 
+Content-Creation_test    2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
+tfx                      1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
+rhesus                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37%
 
 💻 Operating System: 
-Unknown OS               12 hrs 25 mins      ████████████████████░░░░░   81.95% 
-Mac                      2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.05%
+Unknown OS               21 hrs 50 mins      ██████████████████░░░░░░░   74.78% 
+Mac                      7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93% 
-Go                       6 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+Go                       7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
 
 ```
 
@@ -102,7 +102,7 @@ Shell                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JamesAtTensure/JamesAtTensure/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/02/2022 18:45:49 UTC
+ Last Updated on 28/02/2022 18:46:59 UTC
 <!--END_SECTION:waka--> 
 
 <!-- GitHub stats -->  
